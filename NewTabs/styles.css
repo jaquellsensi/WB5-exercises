@@ -1,0 +1,12 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.image-container {
+    display: flex; /* Use flexbox to arrange images horizontally */
+}
+
+.image-container img {
+    margin-right: 20px; /* Add some space between the images */
+}
